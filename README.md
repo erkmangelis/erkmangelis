@@ -23,8 +23,8 @@
 <br/>
 <br/>
 
-<div>
-<h1 align="center">Technology Stacks :octocat:</h1>
+<div align="center">
+<h1 style="text-decoration:none" align="center">Technology Stacks :octocat:</h1>
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
@@ -47,14 +47,28 @@
 <br/>
 <br/>
 
-<div>
-<h1 align="center">My Github Stats :bar_chart:</h1>
+<div align="center">
+<h1>My Github Stats :bar_chart:</h1>
+<img height=200 src="https://github-readme-stats.vercel.app/api?username=erkmangelis&show_icons=true&theme=react&card_width=500&card_height=500"/>
+<img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=erkmangelis&langs_count=8&layout=compact&theme=react&card_height=400"/>
+<img height=200 src="http://github-readme-streak-stats.herokuapp.com?user=erkmangelis&theme=react&card_width=600"/>
+</div>
 
+<br/>
+<br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erkmangelis&show_icons=true&theme=react)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erkmangelis&langs_count=8&layout=compact&theme=react)
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=erkmangelis&theme=react)
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16)
+<div align="center">
+<h1>Fun Corner :fireworks:</h1>
+<table border="0px">
+<thead border="0px">
+<th>What I Recently Listened to? :headphones:</td>
+<th>Any Jokes? 🤡</td>
+</thead>
+<tbody border="0px">
+<td><img src="https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16"/></td>
+<td><img src="https://readme-jokes.vercel.app/api?hideBorder&theme=react" alt="Jokes Card"/></td>
+</tbody>
+</table>
 </div>
 
 <br/>
@@ -70,4 +84,3 @@
 <a href="https://github.com/erkmangelis"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href=""><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>
 </div>
-
