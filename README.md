@@ -13,6 +13,7 @@
 <div>
 <img align="right" alt="Coding" width="200" src="https://github.com/erkmangelis/erkmangelis/assets/88348596/64e29a0c-7e6b-4c6f-9c5b-b16cb5170043"/>
 <ul>
+  <li></li>
   <li>🔭 I’m currently working on Data Structures and Algorithm Skills</li>
   <li>🌱 I’m currently learning from courses on edX and udemy</li>
   <li>👯 I’m looking to collaborate on Python Projects</li>
@@ -27,7 +28,7 @@
 <br/>
 
 <div align="center">
-<h1 style="text-decoration:none" align="center">Technology Stacks :octocat:</h1>
+<p style="font-size:2em" align="center">Technology Stacks :octocat:</p>
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
@@ -75,3 +76,4 @@
 <a href="https://github.com/erkmangelis"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href=""><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>
 </div>
+<br/>
