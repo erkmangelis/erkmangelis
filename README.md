@@ -49,8 +49,12 @@
 
 <div align="center">
 <h1>My Github Stats :bar_chart:</h1>
-<img height=200 src="https://github-readme-stats.vercel.app/api?username=erkmangelis&show_icons=true&theme=react&card_width=200"/>
-<img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=erkmangelis&langs_count=8&layout=compact&theme=react&card_width=200"/>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
 <img height=200 src="http://github-readme-streak-stats.herokuapp.com?user=erkmangelis&theme=react&card_width=500"/>
 </div>
 
