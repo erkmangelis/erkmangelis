@@ -23,6 +23,8 @@
 
 <br/>
 <br/>
+<br/>
+<br/>
 
 <div align="center">
 <h1 style="text-decoration:none" align="center">Technology Stacks :octocat:</h1>
@@ -45,6 +47,7 @@
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
 </div>
 
+<br/>
 <br/>
 <br/>
 
