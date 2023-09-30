@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-<p>I'm a 2nd year student Associate degree in Computer Programing 🎓 from Ege University 🏛️. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that i also love to making music 🎸 and digital art 🎨. I'm currently into python programing. I'm currently into python programing and working on my Data Structures and Algorithm Skills 👨‍💻.</p>
+<p>I'm a 2nd year student Associate degree in Computer Programing 🎓 from Ege University 🏛️. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that i also love to making music 🎸 and digital art 🎨. I'm currently into python programing and working on my Data Structures and Algorithm Skills 👨‍💻.</p>
 </div>
 
 <br/>
@@ -50,8 +50,8 @@
 <div align="center">
 <h1>My Github Stats :bar_chart:</h1>
 <div>
-<img width=420 align="start" src="https://github-readme-stats.vercel.app/api?username=erkmangelis&theme=react" />
-<img width=400 align="end" src="https://github-readme-stats.vercel.app/api/top-langs?username=erkmangelis&layout=compact&langs_count=8&card_width=320&theme=react" />
+<img width=410 align="start" src="https://github-readme-stats.vercel.app/api?username=erkmangelis&theme=react" />
+<img width=400 align="end" src="https://github-readme-stats.vercel.app/api/top-langs?username=erkmangelis&layout=compact&langs_count=8&theme=react" />
 </div>
 <div>
 <img height=200 src="http://github-readme-streak-stats.herokuapp.com?user=erkmangelis&theme=react"/>
