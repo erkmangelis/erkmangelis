@@ -11,6 +11,7 @@
 <br/>
 
 <div>
+<img align="right" alt="Coding" width="200" src="https://github.com/erkmangelis/erkmangelis/assets/88348596/64e29a0c-7e6b-4c6f-9c5b-b16cb5170043"/>
 <ul>
   <li>🔭 I’m currently working on Data Structures and Algorithm Skills</li>
   <li>🌱 I’m currently learning from courses on edX and udemy</li>
