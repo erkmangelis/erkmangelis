@@ -50,12 +50,8 @@
 <div align="center">
 <h1>My Github Stats :bar_chart:</h1>
 <div>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width=400 align="start" src="https://github-readme-stats.vercel.app/api?username=erkmangelis" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img width=400 align="end" src="https://github-readme-stats.vercel.app/api/top-langs?username=erkmangelis&layout=compact&langs_count=8&card_width=320" />
-</a>
+<img width=420 align="start" src="https://github-readme-stats.vercel.app/api?username=erkmangelis&theme=react" />
+<img width=400 align="end" src="https://github-readme-stats.vercel.app/api/top-langs?username=erkmangelis&layout=compact&langs_count=8&card_width=320&theme=react" />
 </div>
 <div>
 <img height=200 src="http://github-readme-streak-stats.herokuapp.com?user=erkmangelis&theme=react"/>
