@@ -50,7 +50,7 @@
 <div align="center">
 <h1>My Github Stats :bar_chart:</h1>
 <div>
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=erkmangelis" />
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=erkmangelis&hide_title=True" />
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=erkmangelis&layout=compact&langs_count=8&card_width=320" />
 </div>
 <div>
