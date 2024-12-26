@@ -1,3 +1,4 @@
+<!--
 <div align="center">
 <img src="https://github.com/erkmangelis/erkmangelis/assets/88348596/6f07ed32-f508-4bb3-8c92-dba4516b1ca0" align="center" style="width: 100%" />
 </div>
@@ -23,7 +24,7 @@
   <li>💬 Ask me about everything</li>
 </ul>
 </div>
-
+-->
 <br/>
 <br/>
 <br/>
