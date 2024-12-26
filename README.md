@@ -54,6 +54,8 @@
 <img src="https://img.shields.io/badge/Refine-%2302569B.svg?style=for-the-badge&logo=refine&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ant%20Design-%230170FE.svg?style=for-the-badge&logo=antdesign&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/.NET-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white"/>
 </div>
 
 <br/>
