@@ -24,12 +24,12 @@
   <li>💬 Ask me about everything</li>
 </ul>
 </div>
--->
-<br/>
-<br/>
-<br/>
-<br/>
 
+<br/>
+<br/>
+<br/>
+<br/>
+-->
 <div align="center">
 <h1 align="center">Technology Stacks :octocat:</h1>
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
