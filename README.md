@@ -1,4 +1,3 @@
-<!--
 <div align="center">
 <img src="https://github.com/erkmangelis/erkmangelis/assets/88348596/6f07ed32-f508-4bb3-8c92-dba4516b1ca0" align="center" style="width: 100%" />
 </div>
@@ -29,7 +28,6 @@
 <br/>
 <br/>
 <br/>
--->
 <div align="center">
 <h1 align="center">Technology Stacks :octocat:</h1>
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
