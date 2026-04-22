@@ -64,9 +64,9 @@
 
 <div align="center">
 <h1>My Github Stats :bar_chart:</h1>
-<div style="display: flex">
-<img width="50%" height=200 src="https://github-readme-stats.vercel.app/api?username=erkmangelis&theme=react"/>
-<img width="50%" height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=erkmangelis&layout=compact&langs_count=8&theme=react"/>
+<div align="center">
+<img height=200 src="https://github-readme-stats.vercel.app/api?username=erkmangelis&theme=react"/>
+<img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=erkmangelis&layout=compact&langs_count=8&theme=react"/>
 </div>
 <div>
 <img height=200 src="http://github-readme-streak-stats.herokuapp.com?user=erkmangelis&theme=react"/>
